@@ -1,3 +1,3 @@
 # Test
 - wgx add b
-- lgy add a
+- lgy add b
