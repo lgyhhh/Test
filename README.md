@@ -1,2 +1,2 @@
 # Test
-zml add z
+zml add c
